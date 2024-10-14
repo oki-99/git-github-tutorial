@@ -1,2 +1,2 @@
-# Git/GitHub tutorial
+# Git/GitHub Tutorial
 
